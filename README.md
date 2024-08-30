@@ -3,6 +3,9 @@
 
 
 ## Бібліотеки
+
 pip install pandas
+
 pip install SQLAlchemy
+
 pip install openpyxl
